@@ -97,10 +97,10 @@ export default [
         fancy: true
       },
       {
-        name: "Smelt",
-        description: "Ship a Svelte/SvelteKit site, get awesome collectable swag!",
+        name: "The Zoo",
+        description: "Ship an interactive animal themed Sveltekit site, get Ikea animal plushies (yes, Blahaj)!",
         img: "/cards/smelt.png",
-        background: "#af5534ff",
+        background: "#017100",
         titleColor: "#ffffff",
         descriptionColor: "#ffffff",
         external: true,
